@@ -4,8 +4,8 @@ A full-stack AI-powered application that generates personalized therapeutic affi
 
 ## Live URLs
 
-- **Frontend**: https://your-app.vercel.app
-- **Backend API**: https://your-api.onrender.com
+- **Frontend**: [https://your-app.vercel.app](https://mood-architect-indol.vercel.app)
+- **Backend API**: [https://your-api.onrender.com](https://mood-architect.onrender.com)
 
 ## Local Development
 
